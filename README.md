@@ -15,6 +15,8 @@
 ![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Sitechco-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Checkvist-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
 
 ### Testing Documentation
 
@@ -23,3 +25,7 @@
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
+
+### Follow Me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/@akiants)
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)]
