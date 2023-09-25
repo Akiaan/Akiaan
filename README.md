@@ -19,7 +19,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/Akiaan/Checklists.git)
-- [Test-Suites and Test-Cases]()
+- [Test-Suites and Test-Cases](https://github.com/Akiaan/Test-cases.git)
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
