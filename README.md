@@ -18,7 +18,7 @@
 
 ### Testing Documentation
 
-- [Checklists]([https://github.com/artichokeee/checklist](https://github.com/Akiaan/Checklists.git))
+- [Checklists]([https://github.com/artichokeee/checklist](https://github.com/Akiaan/Checklists.git)
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
