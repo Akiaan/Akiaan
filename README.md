@@ -1,16 +1,25 @@
-### Hi there 👋
+## I'am a QA Engineer
 
-<!--
-**Akiaan/Akiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My CV
+[Link to my CV](https://docs.google.com/document/d/10Eb2p-pgXSqdyUAGnNWvUKBmc7e5LfU_/edit?usp=drive_link&ouid=113728595963559677815&rtpof=true&sd=true)
 
-Here are some ideas to get you started:
+### Language and Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/ChromeDevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/SOAPUI-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Qase.io-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Sitechco-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Testing Documentation
+
+- [Checklists](https://github.com/artichokeee/checklist)
+- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Postman Collections](https://github.com/artichokeee/postman)
